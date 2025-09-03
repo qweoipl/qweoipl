@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Personal Project
-#### 🌸 [Anitera] — Anime Streaming Website  
+####  🦍 [Anitera] — Anime Streaming Website  
 My own full-stack project that I design and develop from scratch.  
 
 Features:  
@@ -47,5 +47,5 @@ If you’re into frontend-heavy projects, or security topics — let’s connect
 ---
 
 ### 📫 Contacts
-- Email: **illya.yand@gmail.com**  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illya.yand@gmail.com)
 - Telegram: **@qweoipl**   
