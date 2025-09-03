@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Personal Project
-####  🦍 [Anitera] — Anime Streaming Website  
+####  🦍 Anitera — Anime Streaming Website  
 My own full-stack project that I design and develop from scratch.  
 
 Features:  
