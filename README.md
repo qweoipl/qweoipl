@@ -7,7 +7,7 @@
 
 ### 🧭 About me
 - 💻 Frontend developer focusing on modern web technologies and UI/UX.  
-- 🌱 Beginner **backend developer**, currently learning Java (Spring Boot) and Node.js/Express.  
+- 🌱 Beginner **backend developer**, currently learning Java and Node.js.  
 - 🛡️ Exploring the field of **cybersecurity** — from network protocols to web application security.  
 - 🎨 Passionate about building clean, responsive, and user-friendly interfaces.  
 - 🌍 Languages: English, Ukrainian, Russian, Polish.
